@@ -5,32 +5,13 @@
  - Makefile
 
 
-ISO FEB-1-2018
-=============================================================================
-ISO download link of a build for those who do not have Arch Linux, or cannot run build.
-Link: https://drive.google.com/file/d/1vxpwVLUWJp1wYvWWIYGumGzHJjLfWyhT/view?usp=sharing
-
 Notable ISO packages, includes AUR packages
 =============================================================================
-
-   * Desktop
-     - Lightdm ( enabled )
-     - XFCE4
-     - i3
-   * Browser
-     - firefox
-   * Dev tools
-     - vim
-     - git
-     - base-devel
-   * Themes
-     - Paper icons
-     - Arc gtk themes
+   * AUR
+     - distcc-armv7
    * System
-     - Linux Kernel 4.12.13-1
-     - Gparted
-     - Yaourt
-     - TLP ( enabled )
+     - Network Manager
+     - TLP
      - sudo
 
 RUNNING BUILDS
